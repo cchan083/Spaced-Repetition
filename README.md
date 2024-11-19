@@ -1,5 +1,5 @@
 # Spaced repetition for students
-#### Video Demo: https://www.youtube.com/watch?v=EO2UxflEf0s
+
 #### Description: Organizes dates for optimal active recall for students, with options to output all dates or the topics for the current date.
 
 ```
